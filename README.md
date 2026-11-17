@@ -132,6 +132,6 @@ Visualisation            matplotlib animation of each step
 
 ## 📬 Contact
 
-*Add your name, LinkedIn, and email here.*
+*Linkedin: https://www.linkedin.com/in/sihela-wanasekara/ | Email: sihelawanasekara@gmail.com*
 
 *University assignment, AI module. Code withheld in line with academic integrity policy.*
